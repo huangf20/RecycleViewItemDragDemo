@@ -11,7 +11,7 @@
         android:text="Button"
         android:gravity="center"
         android:textSize="18sp"
-        android:background="#BDBCBC"
+        android:background="@drawable/background"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         />
